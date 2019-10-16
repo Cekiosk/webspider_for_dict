@@ -1,0 +1,404 @@
+dict_filt.py:65: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  datanew[1][i]=list_de
+dict_filt.py:66: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  datanew[0][i]=list_en
+dict_filt_de.py:65: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  datanew[1][i]=list_de
+dict_filt_de.py:66: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  datanew[0][i]=list_en
+                                  0                                                  1   2
+0                             [aal]                                       [eel, moray] NaN
+1                        [aalglatt]                                         [slippery] NaN
+2                             [aas]                                          [carrion] NaN
+3                      [aasfresser]                                        [scavenger] NaN
+4                              [ab]                                               [ex] NaN
+5                      [abarbeiten]                               [attention handling] NaN
+6                     [abarbeitend]                                      [working out] NaN
+7                [abarbeitungszeit]                                  [processing time] NaN
+8                         [abarten]                                        [varieties] NaN
+9                         [abartig]                                         [abnormal] NaN
+10                    [abartigkeit]                                        [kinkiness] NaN
+11                          [abbau]                                      [dismantling] NaN
+12     [abbau  einer warteschlange]                                        [dequeuing] NaN
+13                        [abbauen]                         [to abolish, to dismantle] NaN
+14                       [abbauend]                                      [retrenching] NaN
+15                       [abbeißen]                                      [to bite off] NaN
+16                      [abbeißend]                                       [biting off] NaN
+17                    [abbekommend]                                      [getting off] NaN
+18                    [abbekommene]                                          [got off] NaN
+19                     [abberufbar]                                       [recallable] NaN
+20                      [abberufen]                                        [to recall] NaN
+21                     [abberufend]                                        [recalling] NaN
+22                     [abberufene]                                         [recalled] NaN
+23                   [abberufungen]                                          [recalls] NaN
+24                    [abbestellen]                                      [countermand] NaN
+25                   [abbestellend]                                   [countermanding] NaN
+26                     [abbestellt]                                    [countermanded] NaN
+27                 [abbestellungen]                                     [countermands] NaN
+28                      [abbetteln]                          [to wheedle, wheedle out] NaN
+29                     [abbettelnd]                         [wheedling, wheedling out] NaN
+...                             ...                                                ...  ..
+79235               [üble nachrede]                                            [libel] NaN
+79236                      [üblich]  [conventional, customary, normal, ordinary, tr... NaN
+79237                   [üblichere]                                       [more usual] NaN
+79238               [üblicherweise]                                          [usually] NaN
+79239     [übliche verhaltensweise]                                [behaviour pattern] NaN
+79240                   [üblichste]                                       [most usual] NaN
+79241                       [übrig]                                 [left over, spare] NaN
+79242                [übrigbleiben]                                        [to remain] NaN
+79243               [übrig bleiben]                                        [to remain] NaN
+79244               [übrigbleibend]                             [residual, residually] NaN
+79245                      [übrige]                                       [residually] NaN
+79246                    [übrigens]                                       [by the way] NaN
+79247               [übriggelassen]                                             [left] NaN
+79248                 [übriglassen]                             [left, to leave, left] NaN
+79249                        [übte]                                        [practiced] NaN
+79250                       [übung]                    [exercise, exercises, practice] NaN
+79251                     [übungen]                             [exercises, practices] NaN
+79252        [übung  mit anleitung]                                         [tutorial] NaN
+79253               [übungsaufgabe]                                         [exercise] NaN
+79254                  [übungshang]                                   [practice slope] NaN
+79255                  [übungsheft]                                    [exercise book] NaN
+79256                 [übungsplatz]                                     [drill ground] NaN
+79257            [üebertragbarkeit]                                      [portability] NaN
+79258                       [üppig]  [exuberant, luscious, lusciously, luxuriant, l... NaN
+79259                      [üppige]                                        [opulently] NaN
+79260                    [üppigere]                                   [more luxuriant] NaN
+79261                   [üppigkeit]                   [lushness, luxuriance, rankness] NaN
+79262                 [üppigkeiten]                                  [most exuberance] NaN
+79263                    [üppigste]                                    [most luxurian] NaN
+79264                      [﻿54 cm]                                             [inch] NaN
+
+[79265 rows x 3 columns]
+                               0                                                  1   2
+0                            [a]                                              [ein] NaN
+1                        [aback]                  [erstaunt, rückwärts, überrascht] NaN
+2                       [abacus]                                      [Rechenbrett] NaN
+3                   [a bad risc]                              [ein erhöhtes Risiko] NaN
+4                        [abaft]                                           [hinter] NaN
+5              [a bag of nerves]                                 [ein Nervenbündel] NaN
+6                    [abandoned]  [aufgegeben, aufgelassen, herrenlos, sitzengel... NaN
+7                   [abandoning]                         [aufgebend, sitzenlassend] NaN
+8                  [abandonment]   [Aufgabe, Nichtannahme, Verlassenheit, Verzicht] NaN
+9        [abandonment of action]                                   [Klagerücknahme] NaN
+10     [abandonment of domicile]          [Aufgabe des Wohnsitzes, Wohnsitzaufgabe] NaN
+11       [abandonment of option]                                   [Optionsaufgabe] NaN
+12     [abandonment of position]         [Aufgabe einer Stellung, Stellungsaufgabe] NaN
+13      [abandonment of service]                  [Abschaltung, Serviceabschaltung] NaN
+14           [abandonment stage]                                 [Niedergangsphase] NaN
+15                    [abandons]                           [gibt auf, lässt sitzen] NaN
+16                      [abased]                                      [erniedrigte] NaN
+17                   [abasement]                                       [erniedrigt] NaN
+18                     [abashed]                                        [beschämte] NaN
+19                   [abashedly]                                       [beschämend] NaN
+20                     [abashes]                                         [beschämt] NaN
+21                    [abashing]                          [beschämend, beschämende] NaN
+22                   [abashment]                         [demütigend, erniedrigend] NaN
+23                   [abatableh]                                        [abziehbar] NaN
+24                      [abated]                         [verminderte, verringerte] NaN
+25         [abated contribution]                              [niedrigerer Beitrag] NaN
+26                   [abatement]                            [Verfahrenseinstellung] NaN
+27            [abatement of tax]                                   [Steuernachlass] NaN
+28                      [abates]                           [vermindert, verringert] NaN
+29                     [abating]                         [vermindernd, verringernd] NaN
+...                          ...                                                ...  ..
+92337                    [zoned]                                       [abgegrenzt] NaN
+92338             [zone defence]                               [Raumdeckung, Sport] NaN
+92339             [zone defense]                               [Raumdeckung, Sport] NaN
+92340            [zone position]                                        [Zonenteil] NaN
+92341                    [zones]                                            [Zonen] NaN
+92342                   [zoning]                                       [Begrenzung] NaN
+92343                  [zonular]                                       [ringförmig] NaN
+92344                      [zoo]                                    [Tierpark, Zoo] NaN
+92345                     [zook]                                          [Bonchen] NaN
+92346                    [zooks]                                          [Bolchen] NaN
+92347                 [zoolatry]                                       [Tierdienst] NaN
+92348               [zoological]                                       [zoologisch] NaN
+92349       [zoological gardens]                                       [Tiergarten] NaN
+92350             [zoologically]                                      [zoologische] NaN
+92351                [zoologist]                                          [Zoologe] NaN
+92352               [zoologists]                                         [Zoologen] NaN
+92353                  [zoology]                              [Tierkunde, Zoologie] NaN
+92354                     [zoom]                         [Gummilinse, Zoomobjektiv] NaN
+92355                   [zoomed]                              [holte heran, zoomte] NaN
+92356                  [zooming]               [stufenlose optische Formatänderung] NaN
+92357                    [zooms]                                            [zoomt] NaN
+92358                 [zoophyte]                                          [Zoophyt] NaN
+92359                [zoophytes]                                        [Zoophyten] NaN
+92360                   [zounds]                                        [sapperlot] NaN
+92361                 [zucchini]                                         [Zucchini] NaN
+92362                [zucchinis]                                        [Zucchinis] NaN
+92363                 [zwieback]                                         [Zwieback] NaN
+92364                  [zygosis]                                       [Kopulation] NaN
+92365                [zymogenic]                                  [gärungserregend] NaN
+92366                   [zymoma]                                     [Gärungsstoff] NaN
+
+[92367 rows x 3 columns]
+                                   0                           1   2
+0                         [aalglatt]                  [slippery] NaN
+1                              [aas]                   [carrion] NaN
+2                       [aasfresser]                 [scavenger] NaN
+3                               [ab]                        [ex] NaN
+4                       [abarbeiten]        [attention handling] NaN
+5                      [abarbeitend]               [working out] NaN
+6                 [abarbeitungszeit]           [processing time] NaN
+7                          [abarten]                 [varieties] NaN
+8                          [abartig]                  [abnormal] NaN
+9                      [abartigkeit]                 [kinkiness] NaN
+10                           [abbau]               [dismantling] NaN
+11      [abbau  einer warteschlange]                 [dequeuing] NaN
+12                         [abbauen]  [to abolish, to dismantle] NaN
+13                        [abbeißen]               [to bite off] NaN
+14                       [abbeißend]                [biting off] NaN
+15                     [abbekommend]               [getting off] NaN
+16                     [abbekommene]                   [got off] NaN
+17                      [abberufbar]                [recallable] NaN
+18                       [abberufen]                 [to recall] NaN
+19                      [abberufend]                 [recalling] NaN
+20                      [abberufene]                  [recalled] NaN
+21                    [abberufungen]                   [recalls] NaN
+22                     [abbestellen]               [countermand] NaN
+23                    [abbestellend]            [countermanding] NaN
+24                      [abbestellt]             [countermanded] NaN
+25                  [abbestellungen]              [countermands] NaN
+26                       [abbetteln]   [to wheedle, wheedle out] NaN
+27                      [abbettelnd]  [wheedling, wheedling out] NaN
+28                        [abbiegen]  [to bend off, to turn off] NaN
+29                          [abbild]               [copy, image] NaN
+...                              ...                         ...  ..
+121775                      überzüge                    coatings NaN
+121776                      überzüge                  suffusions NaN
+121777                        üblich                conventional NaN
+121778                        üblich                   customary NaN
+121779                        üblich                      normal NaN
+121780                        üblich                    ordinary NaN
+121781                        üblich                 traditional NaN
+121782                        üblich                       usual NaN
+121783                         übrig                   left over NaN
+121784                         übrig                       spare NaN
+121785                 übrigbleibend                    residual NaN
+121786                 übrigbleibend                  residually NaN
+121787                   übriglassen                        left NaN
+121788                   übriglassen                    to leave NaN
+121789                   übriglassen                        left NaN
+121790                         übung                    exercise NaN
+121791                         übung                   exercises NaN
+121792                         übung                    practice NaN
+121793                       übungen                   exercises NaN
+121794                       übungen                   practices NaN
+121795                         üppig                   exuberant NaN
+121796                         üppig                    luscious NaN
+121797                         üppig                  lusciously NaN
+121798                         üppig                   luxuriant NaN
+121799                         üppig                 luxuriantly NaN
+121800                         üppig                      wanton NaN
+121801                         üppig                    wantonly NaN
+121802                     üppigkeit                    lushness NaN
+121803                     üppigkeit                  luxuriance NaN
+121804                     üppigkeit                    rankness NaN
+
+[121804 rows x 3 columns]
+                                     0                                                  1   2
+0                                  [a]                                              [ein] NaN
+1                             [abacus]                                      [Rechenbrett] NaN
+2                         [a bad risc]                              [ein erhöhtes Risiko] NaN
+3                              [abaft]                                           [hinter] NaN
+4                    [a bag of nerves]                                 [ein Nervenbündel] NaN
+5                          [abandoned]  [aufgegeben, aufgelassen, herrenlos, sitzengel... NaN
+6                        [abandonment]   [Aufgabe, Nichtannahme, Verlassenheit, Verzicht] NaN
+7            [abandonment of domicile]          [Aufgabe des Wohnsitzes, Wohnsitzaufgabe] NaN
+8            [abandonment of position]         [Aufgabe einer Stellung, Stellungsaufgabe] NaN
+9             [abandonment of service]                  [Abschaltung, Serviceabschaltung] NaN
+10                          [abandons]                           [gibt auf, lässt sitzen] NaN
+11                            [abased]                                      [erniedrigte] NaN
+12                           [abashed]                                        [beschämte] NaN
+13                           [abashes]                                         [beschämt] NaN
+14                          [abashing]                          [beschämend, beschämende] NaN
+15                         [abatableh]                                        [abziehbar] NaN
+16                            [abated]                         [verminderte, verringerte] NaN
+17               [abated contribution]                              [niedrigerer Beitrag] NaN
+18                         [abatement]                            [Verfahrenseinstellung] NaN
+19                  [abatement of tax]                                   [Steuernachlass] NaN
+20                            [abates]                           [vermindert, verringert] NaN
+21                          [abattoir]                        [Schlachthaus, Schlachthof] NaN
+22                             [abbey]              [abgekürzte, abgekürztes, verkürztes] NaN
+23               [abbreviated address]                                   [Kurzadresse, f] NaN
+24            [abbreviated addressing]                          [abgekürzte Adressierung] NaN
+25             [abbreviated dial code]                            [Kurzwahlzeichen, neut] NaN
+26      [abbreviated keyboard command]                     [abgekürztes Tastaturkommando] NaN
+27               [abbreviated version]                        [Kurzfassung, f, 28.5.2000] NaN
+28                      [abbreviating]                                          [kürzend] NaN
+29             [abbreviation document]                                  [Kurzrufdokument] NaN
+...                                ...                                                ...  ..
+125310                            zeal                                       Pflichteifer NaN
+125311                         zealous                                             eifrig NaN
+125312                         zealous                                      pflichteifrig NaN
+125313                            zero                                               null NaN
+125314                            zero                                               Null NaN
+125315                            zero                                               Null NaN
+125316                            zero                                          Nullpunkt NaN
+125317                          zombie                                           Scheusal NaN
+125318                          zombie                                        Schlafmütze NaN
+125319                          zombie                                            Trottel NaN
+125320                          zombie                                 unmögliche Gestalt NaN
+125321                          zombie                              wiederbeseelte Leiche NaN
+125322                          zombie                                             Mystik NaN
+125323                          zombie                                              Zombi NaN
+125324                          zombie                                             Zombie NaN
+125325                            zone                                            Bereich NaN
+125326                            zone                                 in Zonen einteilen NaN
+125327                            zone                                               Zone NaN
+125328                    zone defence                                        Raumdeckung NaN
+125329                    zone defence                                              Sport NaN
+125330                    zone defense                                        Raumdeckung NaN
+125331                    zone defense                                              Sport NaN
+125332                             zoo                                           Tierpark NaN
+125333                             zoo                                                Zoo NaN
+125334                         zoology                                          Tierkunde NaN
+125335                         zoology                                           Zoologie NaN
+125336                            zoom                                         Gummilinse NaN
+125337                            zoom                                       Zoomobjektiv NaN
+125338                          zoomed                                        holte heran NaN
+125339                          zoomed                                             zoomte NaN
+
+[125339 rows x 3 columns]
+                                   0                     1   2
+0                         [aalglatt]            [slippery] NaN
+1                              [aas]             [carrion] NaN
+2                       [aasfresser]           [scavenger] NaN
+3                               [ab]                  [ex] NaN
+4                       [abarbeiten]  [attention handling] NaN
+5                      [abarbeitend]         [working out] NaN
+6                 [abarbeitungszeit]     [processing time] NaN
+7                          [abarten]           [varieties] NaN
+8                          [abartig]            [abnormal] NaN
+9                      [abartigkeit]           [kinkiness] NaN
+10                           [abbau]         [dismantling] NaN
+11      [abbau  einer warteschlange]           [dequeuing] NaN
+12                        [abbauend]         [retrenching] NaN
+13                        [abbeißen]         [to bite off] NaN
+14                       [abbeißend]          [biting off] NaN
+15                     [abbekommend]         [getting off] NaN
+16                     [abbekommene]             [got off] NaN
+17                      [abberufbar]          [recallable] NaN
+18                       [abberufen]           [to recall] NaN
+19                      [abberufend]           [recalling] NaN
+20                      [abberufene]            [recalled] NaN
+21                    [abberufungen]             [recalls] NaN
+22                     [abbestellen]         [countermand] NaN
+23                    [abbestellend]      [countermanding] NaN
+24                      [abbestellt]       [countermanded] NaN
+25                  [abbestellungen]        [countermands] NaN
+26                      [abbezahlen]          [to pay off] NaN
+27                       [abbildend]           [picturing] NaN
+28                [abbildungsfehler]          [aberration] NaN
+29                       [abbindend]             [undoing] NaN
+...                              ...                   ...  ..
+121774                      überzüge              coatings NaN
+121775                      überzüge            suffusions NaN
+121776                        üblich          conventional NaN
+121777                        üblich             customary NaN
+121778                        üblich                normal NaN
+121779                        üblich              ordinary NaN
+121780                        üblich           traditional NaN
+121781                        üblich                 usual NaN
+121782                         übrig             left over NaN
+121783                         übrig                 spare NaN
+121784                 übrigbleibend              residual NaN
+121785                 übrigbleibend            residually NaN
+121786                   übriglassen                  left NaN
+121787                   übriglassen              to leave NaN
+121788                   übriglassen                  left NaN
+121789                         übung              exercise NaN
+121790                         übung             exercises NaN
+121791                         übung              practice NaN
+121792                       übungen             exercises NaN
+121793                       übungen             practices NaN
+121794                         üppig             exuberant NaN
+121795                         üppig              luscious NaN
+121796                         üppig            lusciously NaN
+121797                         üppig             luxuriant NaN
+121798                         üppig           luxuriantly NaN
+121799                         üppig                wanton NaN
+121800                         üppig              wantonly NaN
+121801                     üppigkeit              lushness NaN
+121802                     üppigkeit            luxuriance NaN
+121803                     üppigkeit              rankness NaN
+
+[121804 rows x 3 columns]
+                                     0                               1   2
+0                                  [a]                           [ein] NaN
+1                             [abacus]                   [Rechenbrett] NaN
+2                         [a bad risc]           [ein erhöhtes Risiko] NaN
+3                              [abaft]                        [hinter] NaN
+4                    [a bag of nerves]              [ein Nervenbündel] NaN
+5              [abandonment of action]                [Klagerücknahme] NaN
+6              [abandonment of option]                [Optionsaufgabe] NaN
+7                  [abandonment stage]              [Niedergangsphase] NaN
+8                             [abased]                   [erniedrigte] NaN
+9                          [abasement]                    [erniedrigt] NaN
+10                           [abashed]                     [beschämte] NaN
+11                         [abashedly]                    [beschämend] NaN
+12                           [abashes]                      [beschämt] NaN
+13                         [abatableh]                     [abziehbar] NaN
+14               [abated contribution]           [niedrigerer Beitrag] NaN
+15                         [abatement]         [Verfahrenseinstellung] NaN
+16                  [abatement of tax]                [Steuernachlass] NaN
+17                          [abbacies]                     [Amtswürde] NaN
+18            [abbreviated addressing]       [abgekürzte Adressierung] NaN
+19      [abbreviated keyboard command]  [abgekürztes Tastaturkommando] NaN
+20                      [abbreviating]                       [kürzend] NaN
+21             [abbreviation document]               [Kurzrufdokument] NaN
+22                       [abbreviator]                      [Abkürzer] NaN
+23                      [abbreviatory]                     [abkürzend] NaN
+24                         [abdicable]                   [verzichtbar] NaN
+25                          [abdicate]                      [entsagen] NaN
+26                        [abdication]                     [Abdankung] NaN
+27                         [abdicator]                      [Abdanker] NaN
+28                           [abdomen]                     [Unterleib] NaN
+29                         [abdominal]                 [Unterleibs...] NaN
+...                                ...                             ...  ..
+125301                            zeal                    Pflichteifer NaN
+125302                         zealous                          eifrig NaN
+125303                         zealous                   pflichteifrig NaN
+125304                            zero                            null NaN
+125305                            zero                            Null NaN
+125306                            zero                            Null NaN
+125307                            zero                       Nullpunkt NaN
+125308                          zombie                        Scheusal NaN
+125309                          zombie                     Schlafmütze NaN
+125310                          zombie                         Trottel NaN
+125311                          zombie              unmögliche Gestalt NaN
+125312                          zombie           wiederbeseelte Leiche NaN
+125313                          zombie                          Mystik NaN
+125314                          zombie                           Zombi NaN
+125315                          zombie                          Zombie NaN
+125316                            zone                         Bereich NaN
+125317                            zone              in Zonen einteilen NaN
+125318                            zone                            Zone NaN
+125319                    zone defence                     Raumdeckung NaN
+125320                    zone defence                           Sport NaN
+125321                    zone defense                     Raumdeckung NaN
+125322                    zone defense                           Sport NaN
+125323                             zoo                        Tierpark NaN
+125324                             zoo                             Zoo NaN
+125325                         zoology                       Tierkunde NaN
+125326                         zoology                        Zoologie NaN
+125327                            zoom                      Gummilinse NaN
+125328                            zoom                    Zoomobjektiv NaN
+125329                          zoomed                     holte heran NaN
+125330                          zoomed                          zoomte NaN
+
+[125331 rows x 3 columns]

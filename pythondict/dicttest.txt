@@ -1,0 +1,44 @@
+﻿00databaseinfo	<font color=red size=+2><b>00databaseinfo\n</b></font><br><br><font color=black>00-database-info\nThis file was converted from the original database on:\n          Thu May  8 07:11:41 2003\n\n\nThe original data is available from:\n     unknown\n\nThe original data was distributed with the notice shown below.  No\nadditional restrictions are claimed.  Please redistribute this\nchanged version under the same conditions and restriction that\napply to the original version.\n\n00-database-info\n   27. Apr. 2000\n   Database was converted to TEI format and checked into CVS\n   10.April 2000\n   The Data was originally generated from Frank Richter's a	<font color=red size=+2><b>a\n</b></font><br><br><font color=black>a [ə]\n   ein\n</font><br>
+aback	<font color=red size=+2><b>aback\n</b></font><br><br><font color=black>aback [əbæk]\n   erstaunt; rückwärts; überrascht\n</font><br>
+abacus	<font color=red size=+2><b>abacus\n</b></font><br><br><font color=black>abacus [æbəkəs]\n   Rechenbrett\n</font><br>
+a bad risc	<font color=red size=+2><b>a bad risc\n</b></font><br><br><font color=black>a bad risc [əbædrisk]\n   ein erhöhtes Risiko\n</font><br>
+abaft	<font color=red size=+2><b>abaft\n</b></font><br><br><font color=black>abaft [əbæft]\n   hinter\n</font><br>
+a bag of nerves	<font color=red size=+2><b>a bag of nerves\n</b></font><br><br><font color=black>a bag of nerves [əbægɔfnə:vz]\n   ein Nervenbündel\n</font><br>
+abandoned	<font color=red size=+2><b>abandoned\n</b></font><br><br><font color=black>abandoned [əbændənd]\n   aufgegeben; aufgelassen; herrenlos; sitzengelassen; verlassen\n</font><br>
+abandoning	<font color=red size=+2><b>abandoning\n</b></font><br><br><font color=black>abandoning [əbændəniŋ]\n   aufgebend; sitzenlassend\n</font><br>
+abandonment	<font color=red size=+2><b>abandonment\n</b></font><br><br><font color=black>abandonment [əbændənmənt]\n   Aufgabe; Nichtannahme; Verlassenheit; Verzicht\n</font><br>
+abandonment of action	<font color=red size=+2><b>abandonment of action\n</b></font><br><br><font color=black>abandonment of action [əbændənməntɔfækʃən]\n   Klagerücknahme\n</font><br>
+abandonment of domicile	<font color=red size=+2><b>abandonment of domicile\n</b></font><br><br><font color=black>abandonment of domicile [əbændənməntɔfdɔmisail]\n   Aufgabe des Wohnsitzes; Wohnsitzaufgabe\n</font><br>
+abandonment of option	<font color=red size=+2><b>abandonment of option\n</b></font><br><br><font color=black>abandonment of option [əbændənməntɔfɔpʃən]\n   Optionsaufgabe\n</font><br>
+abandonment of position	<font color=red size=+2><b>abandonment of position\n</b></font><br><br><font color=black>abandonment of position [əbændənməntɔfpəziʃən]\n   Aufgabe einer Stellung; Stellungsaufgabe\n</font><br>
+abandonment of service	<font color=red size=+2><b>abandonment of service\n</b></font><br><br><font color=black>abandonment of service [əbændənməntɔfsə:vis]\n   Abschaltung; Serviceabschaltung\n</font><br>
+abandonment stage	<font color=red size=+2><b>abandonment stage\n</b></font><br><br><font color=black>abandonment stage [əbændənməntsteidʒ]\n   Niedergangsphase\n</font><br>
+abandons	<font color=red size=+2><b>abandons\n</b></font><br><br><font color=black>abandons [əbændənz]\n   gibt auf; lässt sitzen\n</font><br>
+abased	<font color=red size=+2><b>abased\n</b></font><br><br><font color=black>abased [əbeist]\n   erniedrigte\n</font><br>
+abasement	<font color=red size=+2><b>abasement\n</b></font><br><br><font color=black>abasement [əbeismənt] (n)\n   Demütigung; (f )28.5.2000\n</font><br>
+abases	<font color=red size=+2><b>abases\n</b></font><br><br><font color=black>abases [əbeisiz]\n   erniedrigt\n</font><br>
+abashed	<font color=red size=+2><b>abashed\n</b></font><br><br><font color=black>abashed [əbæʃt]\n   beschämte\n</font><br>
+abashedly	<font color=red size=+2><b>abashedly\n</b></font><br><br><font color=black>abashedly [əbæʃdli:]\n   beschämend\n</font><br>
+abashes	<font color=red size=+2><b>abashes\n</b></font><br><br><font color=black>abashes [əbæʃiz]\n   beschämt\n</font><br>
+abashing	<font color=red size=+2><b>abashing\n</b></font><br><br><font color=black>abashing [əbæʃiŋ]\n   beschämend; beschämende\n</font><br>
+abashment	<font color=red size=+2><b>abashment\n</b></font><br><br><font color=black>abashment [əbæʃmənt] (n)\n   Beschämung; (f )28.5.2000\n</font><br>
+abasing	<font color=red size=+2><b>abasing\n</b></font><br><br><font color=black>abasing [əbeisiŋ]\n   demütigend; erniedrigend\n</font><br>
+abatable	<font color=red size=+2><b>abatable\n</b></font><br><br><font color=black>abatable [əbeitəbl]\n   abziehbar\n</font><br>
+abated	<font color=red size=+2><b>abated\n</b></font><br><br><font color=black>abated [əbeitid]\n   verminderte; verringerte\n</font><br>
+abated contribution	<font color=red size=+2><b>abated contribution\n</b></font><br><br><font color=black>abated contribution [əbeitidkɔntribju:ʃən]\n   niedrigerer Beitrag\n</font><br>
+abatement	<font color=red size=+2><b>abatement\n</b></font><br><br><font color=black>abatement [əbeitmənt] (n)\n   Herabsetzung; (f )Kürzung; (f )Streichung; (f )Verringerung; (f )\n</font><br>
+abatement of action	<font color=red size=+2><b>abatement of action\n</b></font><br><br><font color=black>abatement of action [əbeitməntɔfækʃən]\n   Verfahrenseinstellung\n</font><br>
+abatement of tax	<font color=red size=+2><b>abatement of tax\n</b></font><br><br><font color=black>abatement of tax [əbeitməntɔftæks]\n   Steuernachlass\n</font><br>
+abates	<font color=red size=+2><b>abates\n</b></font><br><br><font color=black>abates [əbeits]\n   vermindert; verringert\n</font><br>
+abating	<font color=red size=+2><b>abating\n</b></font><br><br><font color=black>abating [əbeitiŋ]\n   vermindernd; verringernd\n</font><br>
+abattoir	<font color=red size=+2><b>abattoir\n</b></font><br><br><font color=black>abattoir [æbətwɑ:r]\n   Schlachthaus; Schlachthof\n</font><br>
+abbacies	<font color=red size=+2><b>abbacies\n</b></font><br><br><font color=black>abbacies [æbəsiz]\n   Amtswürde\n</font><br>
+abbey	<font color=red size=+2><b>abbey\n</b></font><br><br><font color=black>abbey [əbei] (n)\n   Abtei; (f )28.5.2000\n</font><br>
+abbot	<font color=red size=+2><b>abbot\n</b></font><br><br><font color=black>abbot [æbət] (n)\n   Abt; (m )28.5.2000\n</font><br>
+abbreviated	<font color=red size=+2><b>abbreviated\n</b></font><br><br><font color=black>abbreviated [əbri:vieitid]\n   abgekürzte; abgekürztes; verkürztes\n</font><br>
+abbreviated address	<font color=red size=+2><b>abbreviated address\n</b></font><br><br><font color=black>abbreviated address [əbri:vieitidədres]\n   Kurzadresse; (f )\n</font><br>
+abbreviated address call	<font color=red size=+2><b>abbreviated address call\n</b></font><br><br><font color=black>abbreviated address call [əbri:vieitidədreskɔ:l]\n   Kurzaufruf; (m )Kurzwahl; (f )28.5.2000\n</font><br>
+abbreviated addressing	<font color=red size=+2><b>abbreviated addressing\n</b></font><br><br><font color=black>abbreviated addressing [əbri:vieitidədresiŋ]\n   abgekürzte Adressierung\n</font><br>
+abbreviated dial code	<font color=red size=+2><b>abbreviated dial code\n</b></font><br><br><font color=black>abbreviated dial code [əbri:vieitiddaiəlkoud]\n   Kurzwahlzeichen; (neut )\n</font><br>
+abbreviated keyboard command	<font color=red size=+2><b>abbreviated keyboard command\n</b></font><br><br><font color=black>abbreviated keyboard command [əbri:vieitidki:bɔ:dkəmɑ:nd]\n   abgekürztes Tastaturkommando\n</font><br>
+abbreviated version	<font color=red size=+2><b>abbreviated version

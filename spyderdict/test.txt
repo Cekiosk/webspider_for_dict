@@ -1,0 +1,45 @@
+0 #f# als #f# alss trans #f# 
+1 #f# Kommission #f# Kommissions trans #f# 
+2 #f# über #f# übers trans #f# 
+3 #f# diese #f# dieses trans #f# 
+4 #f# an #f# ans trans #f# 
+0 #f# als #f# alss trans #f# 
+1 #f# Kommission #f# Kommissions trans #f# 
+2 #f# über #f# übers trans #f# 
+3 #f# diese #f# dieses trans #f# 
+4 #f# an #f# ans trans #f# 
+0 #f# als #f# alss trans #f# 
+1 #f# Kommission #f# Kommissions trans #f# 
+2 #f# über #f# übers trans #f# 
+3 #f# diese #f# dieses trans #f# 
+4 #f# an #f# ans trans #f# 
+0 #f# als #f# alss trans #f# 
+1 #f# Kommission #f# Kommissions trans #f# 
+2 #f# über #f# übers trans #f# 
+3 #f# diese #f# dieses trans #f# 
+4 #f# an #f# ans trans #f# 
+0 #f# als #f# alss trans #f# 
+1 #f# Kommission #f# Kommissions trans #f# 
+2 #f# über #f# übers trans #f# 
+3 #f# diese #f# dieses trans #f# 
+4 #f# an #f# ans trans #f# 
+0 #f# als #f# alss trans #f# 
+1 #f# Kommission #f# Kommissions trans #f# 
+2 #f# über #f# übers trans #f# 
+3 #f# diese #f# dieses trans #f# 
+4 #f# an #f# ans trans #f# 
+0 #f# als #f# alss trans #f# 
+1 #f# Kommission #f# Kommissions trans #f# 
+2 #f# über #f# übers trans #f# 
+3 #f# diese #f# dieses trans #f# 
+4 #f# an #f# ans trans #f# 
+0 #f# als #f# alss trans #f# 
+1 #f# Kommission #f# Kommissions trans #f# 
+2 #f# über #f# übers trans #f# 
+3 #f# diese #f# dieses trans #f# 
+4 #f# an #f# ans trans #f# 
+0 #f# als #f# [[["when","als",null,null,1]],[["连词",["as","than","when","as if","once"],[["as",["als","wie","so","da","während","indem"],null,0.35656098],["than",["als","wie","denn"],null,0.18789443],["when",["wenn","als","wo","wie","wobei"],null,0.01889704],["as if",["als ob","als"],null,0.0012660227],["once",["wenn","nachdem","als"],null,8.7510656e-05]],"als",7],["介词",["except"],[["except",["außer","als"],null,0.00013767359]],"als",5]],"de",null,null,[["als",null,[["when",1000,true,false],["as",1000,true,false],["than",0,true,false]],[[0,3]],"als",0,0]],0.83984375,null,[["de"],null,[0.83984375],["de"]]] #f# 
+1 #f# Kommission #f# [[["Commission","Kommission",null,null,1]],[["名词",["commission","committee"],[["commission",["Kommission","Auftrag","Provision","Gebühr","Courtage","Komission"],[55950],0.24126123],["committee",["Ausschuss","Komitee","Kommission","Gremium","Vorstand","Präsidium"],[55950],0.002638618]],"Kommission",1]],"de",null,null,[["Kommission",null,[["Commission",1000,true,false],["Committee",1000,true,false]],[[0,10]],"Kommission",0,0]],1,null,[["de"],null,[1],["de"]]] #f# 
+2 #f# über #f# [[["over","über",null,null,1]],[["介词",["by","about","over","via","above","across","for","beyond","past","up above"],[["by",["von","durch","nach","mit","um","über"],null,0.2528396],["about",["über","um","von","an","um ... herum"],null,0.13746651],["over",["über","in","während"],null,0.12322418],["via",["über","via","durch"],null,0.064934582],["above",["über","oberhalb"],null,0.023517746],["across",["über","durch"],null,0.014043087],["for",["für","zu","nach","auf","um","über"],null,0.0098036546],["beyond",["über","jenseits","außer","weiter als","über ... hinaus"],null,0.0051661632],["past",["über","hinter","nach","an ... vorbei","an ... vorüber"],null,0.00058875524],["up above",["über"],null,3.2193369e-05]],"über",5],["副词",["upward of"],[["upward of",["über"],null,1.2679299e-06]],"über",4]],"de",null,null,[["über",null,[["over",1000,true,false],["above",1000,true,false],["about",1000,true,false],["via",1000,true,false],["by",1000,true,false]],[[0,4]],"über",0,0]],1,null,[["de"],null,[1],["de"]]] #f# 
+3 #f# diese #f# [[["these","diese",null,null,1]],[["代词",["this","these"],[["this",["dieses","dieser","diese","dies","das"],null,0.39777252],["these",["diese"],null,0.19385885]],"diese",8]],"de",null,null,[["diese",null,[["these",1000,true,false],["this",1000,true,false]],[[0,5]],"diese",0,0]],1,null,[["de"],null,[1],["de"]],null,null,null,null,null,[["dieser"]]] #f# 
+4 #f# an #f# [[["on","an",null,null,1]],[["介词",["to","at","on","by","against","along","beside"],[["to",["zu","auf","bis","an","nach","in"],null,0.26914635],["at",["bei","an","auf","in","zu","um"],null,0.13533528],["on",["auf","an"],null,0.11758133],["by",["von","durch","nach","mit","um","an"],null,0.0060398565],["against",["gegen","vor","an","wider","entgegen","zuwider"],null,0.0040234118],["along",["entlang","längs","an"],null,0.002292471],["beside",["neben","an"],null,0.00023055986]],"an",5]],"de",null,null,[["an",null,[["on",1000,true,false],["at",1000,true,false],["to",1000,true,false]],[[0,2]],"an",0,0]],0,null,[["de"],null,[0],["de"]]] #f# 
